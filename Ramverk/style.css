@@ -1,0 +1,27 @@
+body {
+    background-color: #0f172a;
+    color: #f8fafc;
+}
+
+.bg-dark-blue {
+    background-color: #0f172a;
+}
+
+.bg-dark {
+    background-color: #111827 !important;
+}
+
+.custom-card {
+    background-color: #1e293b;
+    color: #f8fafc;
+    border: 1px solid #334155;
+    border-radius: 12px;
+}
+
+.custom-card .card-text {
+    color: #cbd5e1;
+}
+
+hr {
+    border-color: rgba(255, 255, 255, 0.428);
+}
